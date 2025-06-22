@@ -7,7 +7,7 @@
 ### 요약
 | No | category | detail |
 | :--- | :--- | :---: |
-| 1 | 1유형 | [Preprocess](Preprocess.ipynb) |
+| 1 | 1유형 | [Preprocess](1유형/Preprocess.ipynb) |
 | 2 | 2유형 | [Modeling](Modeling_Template.ipynb) |
 | 3 | 3유형 | [Preprocess](Statistics_Templates.ipynb) |
 
